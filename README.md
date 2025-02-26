@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https://sameerrahman.website/](https://sameerrahman.website/)
+- 👨‍💻 All of my projects are available at [https://sameerrahman.website/](https://sameerrahman.dev/)
 
 - 📝 I regularly write articles on [https://sameerrahman.blog/](https://sameerrahman.blog/)
 
