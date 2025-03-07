@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://sameerrahman.blog/](https://sameerrahman.blog/)
 
-- 📫 How to reach me **sameerrahmancontact@gmail.com**
+- 📫 How to reach me **sameercontact@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
